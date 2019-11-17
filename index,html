@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width",>
+     <script src="https://kit.fontawesome.com/f0b029eb43.js" crossorigin="anonymous"></script>
+    
+  
+  </head>
+  <body>
+    <header> <class="showcase">
+      <div class="showcase-top">
+        <img src="img/logo.png" alt="Netflix">
+        <a href="#" class="btn btn-rounded"></a>
+    <script src="script.js"></script>
+  </body>
+</html>
